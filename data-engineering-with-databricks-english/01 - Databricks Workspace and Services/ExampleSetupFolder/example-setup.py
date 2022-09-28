@@ -12,7 +12,7 @@ DA.conclude_setup()                      # Conclude setup by advertising environ
 # COMMAND ----------
 
 # TODO
-my_name = None
+my_name = "mike"
 
 # COMMAND ----------
 

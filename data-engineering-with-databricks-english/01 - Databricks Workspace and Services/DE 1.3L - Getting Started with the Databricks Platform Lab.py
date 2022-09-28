@@ -49,8 +49,7 @@
 
 # COMMAND ----------
 
-# MAGIC %md <i18n value="68805a5e-3b2c-4f79-819f-273d4ca95137"/>
-# MAGIC 
+# MAGIC %md 
 # MAGIC 
 # MAGIC 
 # MAGIC # Using %run
@@ -111,8 +110,7 @@ print(my_name)
 
 # COMMAND ----------
 
-# MAGIC %md <i18n value="ece094f7-d013-4b24-aa54-e934f4ab7dbd"/>
-# MAGIC 
+# MAGIC %md
 # MAGIC 
 # MAGIC 
 # MAGIC ## Run a Python cell

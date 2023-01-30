@@ -158,6 +158,10 @@ display(example_df)
 
 # COMMAND ----------
 
+print(f"{DA.paths.datasets}")
+
+# COMMAND ----------
+
 # MAGIC %sql
 # MAGIC SELECT * FROM delta.`${DA.paths.datasets}/nyctaxi-with-zipcodes/data`
 
